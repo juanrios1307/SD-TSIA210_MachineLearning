@@ -3,3 +3,6 @@ matplotlib
 scikit-learn
 scipy
 pylab-sdk
+tensorflow
+keras
+np_utils
